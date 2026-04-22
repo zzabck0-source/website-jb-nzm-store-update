@@ -102,7 +102,9 @@
     transform: scale(0.95);
   }
 </style>
-<a href="https://whatsapp.com" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vb6Id391Hsq5OVWux80O
+
+" target="_blank">
   <button style="background-color: #008069; color: white; padding: 10px 20px; border: none; border-radius: 20px;">
     Ikuti Saluran WA
   </button>
